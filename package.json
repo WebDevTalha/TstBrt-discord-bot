@@ -1,0 +1,14 @@
+{
+  "name": "TstBrt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Farhan",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.53.0"
+  }
+}
